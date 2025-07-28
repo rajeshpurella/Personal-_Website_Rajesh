@@ -1,0 +1,25 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #f0f8ff, #e0ffff);
+  color: #333;
+}
+
+h2 {
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 5px;
+  margin-top: 20px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
